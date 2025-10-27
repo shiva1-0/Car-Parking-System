@@ -11,3 +11,4 @@ The system tracks the number of vehicles inside the parking lot, indicates avail
 - Simulation verified in Xilinx Vivado
 
 ## Flowchart
+![flowchart](https://github.com/user-attachments/assets/bd7d5783-5b65-4677-b67b-569b71936887)
