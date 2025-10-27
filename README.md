@@ -34,7 +34,7 @@ The vehicle counter decrements, indicating a car has left the parking lot, and a
 **8. End State**
 The system loops back to the initial state, ready to detect the next vehicle.
 
-##Tools & Technologies
+## Tools & Technologies
 
 - Hardware Description Language :	Verilog HDL
 - Simulation Software :	Xilinx Vivado
